@@ -1,0 +1,13 @@
+namespace StringSum
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string a = "mkf70a865d6e96f78e94ec8d8cdb4f86";
+            string b = "6ZFOwtFDrOmmlbQmznTOsMXjMVhZaKcxPUjxMFdlEHz6z49AymkRsP0EffzsrzNxNbGAZ/fTPEXyx9Ffyggeg3KnALcPQH9c4asa1AXPxnvTAoW2iiMkhNfceDIL7lwuz+D8OayYkRypox+dUJZs/A==";
+            Console.WriteLine(a + b);
+            Console.ReadKey();
+        }
+    }
+}
